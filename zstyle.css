@@ -1,0 +1,61 @@
+
+.one{
+       width: 1500px;
+       height: 500px;
+       
+   }  
+  
+   marquee{
+       position:relative;
+       bottom:500px;
+   }
+  nav{
+   width:400px;
+   margin-left:500px;   
+  }
+input{
+margin-left: 600px;
+height: 30px;
+width: 300px;
+color: black;
+background-color:white;
+border: none;
+position:relative;
+bottom:500px;
+ }
+.b,.d,.f,.h,.j,.l{
+width: 200px;
+display: inline-block;
+vertical-align: top;
+margin-right: 15px;
+}
+.c,.e,.g,.i,.k,.m{
+width: 200px;
+height: 200px;
+object-fit: cover;
+margin-bottom: 12px;
+border-radius: 200px;
+}
+p{
+text-align: center;
+font-weight:bold;
+color: black;
+}
+.two{
+width: 400px;
+display: block;
+border-radius: 10px;
+
+}
+.five{
+width: 400px;
+display: inline-block;
+margin-right: 25px;
+position: relative;
+left:350px;
+margin-top: 30px;
+box-shadow: 0 0 5px rgba(8, 7, 7, 0.3);
+background-color: white;
+
+}
+
